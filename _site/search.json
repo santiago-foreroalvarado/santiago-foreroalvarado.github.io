@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site"
+    "text": "Download my CV here."
   },
   {
     "objectID": "index.html",
@@ -28,13 +28,6 @@
     "text": "Contact\n📧 forer026@umn.edu\n🐙 GitHub"
   },
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download my CV here."
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -54,5 +47,12 @@
     "title": "Research",
     "section": "Publications",
     "text": "Publications\nComing soon"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
